@@ -1,4 +1,4 @@
-La estructura del código a implementar en micro tendrán los siquientes elementos
+La estructura del código a implementar poseerá en principio los siguientes elementos:
 
 1 - Etapa de recepción de Sensores.
 2 - Etapa de movimiento del motor.
@@ -9,3 +9,6 @@ La estructura del código a implementar en micro tendrán los siquientes element
     dados por el motor.
 6 - El micro usará 7 pines para comunicarse con el motor y los sensores: 1 pin para el lidar, 2 pines para el ultrasonido (trigger y eco) y
     4 pines para manipular las bobinas del motor que controlan su movimiento.
+    
+Esta es solo una enumeración de las distintos elementos que debe tener la programación del micro para el cumplimiento del trabajo. A medida
+que se vaya programanado, se irán agregando nuevos elementos y este mensaje será cambiado por el código a usar comentado.
